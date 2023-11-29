@@ -14,9 +14,9 @@ module.exports = Wasy
 ```
 <p align="center">
  <a align="center" href="https://discord.com/users/779237062355976212" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a align="center" href="https://www.github.com/Bes-js" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a align="center" href="https://www.github.com/wasycim" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a align="center" href="https://open.spotify.com/user/vwuht447wffml59xtfokakivv?si=26736c6f81d34c45&nd=1" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- <a align="center" href="https://www.instagram.com/_berknt" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a align="center" href="https://www.instagram.com/wasycim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <br> </br>
  
 [![Discord Presence](https://lanyard.cnrad.dev/api/779237062355976212)](https://discord.com/users/779237062355976212) 
