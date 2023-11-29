@@ -1,16 +1,19 @@
-### Hi there 👋
+```js
+class Wasy {
+    constructor(options) {
+        this.name = "Yiğit",
+        this.discord.tag = "wasycim",
+        this.instagram = "wasycim",
+        this.whatsapp = "+1 (802) 542-9906",
+        this.portfolio = "wasydev.xyz",
+        this.mail = "info@wasydev.xyz"
+    };
+}
 
-<!--
-**wasycim/wasycim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+module.exports = Wasy
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Discord</h2>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/779237062355976212)](https://discord.com/users/779237062355976212)
