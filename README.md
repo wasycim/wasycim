@@ -27,7 +27,7 @@ module.exports = Wasy
 <br> </br>
 <a href="https://github.com/Jurredr/github-widgetbox">
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=cranedevs&data=followers,repositories,stars,commits&theme=darkmode" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=wasycim&data=followers,repositories,stars,commits&theme=darkmode" alt="">
   </p>
 </a>
 
