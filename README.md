@@ -19,7 +19,7 @@ module.exports = Wasy
  <a align="center" href="https://www.instagram.com/wasycim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.buymeacoffee.com/wasy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
 <br> </br>
-[[Discord Presence](https://lanyard.cnrad.dev/api/779237062355976212)](https://discord.com/users/779237062355976212) 
+<a [![Discord Presence](https://lanyard.cnrad.dev/api/779237062355976212)](https://discord.com/users/779237062355976212) 
 <a href="https://open.spotify.com/user/m6y2nls1fk8l1iw0g2hbkh79a" align="center"> <img  width="400px" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=m6y2nls1fk8l1iw0g2hbkh79a&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=m6y2nls1fk8l1iw0g2hbkh79a&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true"> </a>
 <br> </br>
 <h2 align="center"> <img width="100%" src="https://count.getloli.com/get/@wasycim?theme=gelbooru-h" </h2>
