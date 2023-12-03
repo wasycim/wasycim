@@ -33,6 +33,6 @@ module.exports = Wasy
 
 <a href="https://github.com/Jurredr/github-widgetbox">
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,typejs,html,css,nodejs,discordjs,vscode&theme=darkmode&includeNames=true" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,nodejs,C++,C#,C&theme=darkmode&includeNames=true" alt="">
   </p>
 </a>
