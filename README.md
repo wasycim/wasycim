@@ -27,12 +27,12 @@ module.exports = Wasy
 <br> </br>
 <a href="https://github.com/Jurredr/github-widgetbox">
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=wasycim&data=followers,repositories,stars,commits&theme=darkmode&includeNames=true" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=wasycim&data=followers,repositories,stars,commits&theme=darkmode" alt="">
   </p>
 </a>
 
 <a href="https://github.com/Jurredr/github-widgetbox">
   <p align=center>
-    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,kotlin,html,css,nodejs,express,discordjs&theme=darkmode" alt="">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,kotlin,html,css,nodejs,express,discordjs&theme=darkmode&includeNames=true" alt="">
   </p>
 </a>
