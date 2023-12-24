@@ -6,7 +6,6 @@ class Wasy {
         this.instagram = "wasycim",
         this.whatsapp = "+1 (802) 542-9906",
         this.portfolio = "wasydev.xyz",
-        this.mail = "info@wasydev.xyz"
     };
 }
 
