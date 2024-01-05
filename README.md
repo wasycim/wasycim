@@ -3,8 +3,7 @@ class Wasy {
     constructor(options) {
         this.name = "Yiğit",
         this.discord.tag = "wasycim",
-        this.instagram = "wasycim",
-        this.whatsapp = "+1 (802) 542-9906",
+        this.instagram = "yigitlqx",
         this.portfolio = "wasydev.xyz",
     };
 }
