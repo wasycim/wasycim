@@ -16,9 +16,7 @@ module.exports = Wasy
  <a align="center" href="https://www.instagram.com/wasycim" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
  <a href="https://www.buymeacoffee.com/wasy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
 <br> </br>
-<p align=center>
 [![Discord Presence](https://lanyard.cnrad.dev/api/779237062355976212)](https://discord.com/users/779237062355976212)
-</p>
 <br> </br>
 <h2 align="center"> <img width="100%" src="https://count.getloli.com/get/@wasycim?theme=gelbooru" </h2>
 
