@@ -17,7 +17,7 @@ module.exports = Wasy
  <a href="https://www.buymeacoffee.com/wasy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
 <br> </br>
   <p align=center>
-[![Discord Presence](https://lanyard.cnrad.dev/api/779237062355976212)](https://discord.com/users/779237062355976212)
+[[Discord Presence](https://lanyard.cnrad.dev/api/779237062355976212)](https://discord.com/users/779237062355976212)
   </p>
 <br> </br>
 <h2 align="center"> <img width="100%" src="https://count.getloli.com/get/@wasycim?theme=gelbooru" </h2>
