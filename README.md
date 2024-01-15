@@ -2,7 +2,7 @@
 class Wasy {
     constructor(options) {
         this.name = "Yiğit",
-        this.name = "Man",
+        this.name = "man",
         this.discord.tag = "wasycim",
         this.instagram = "yigitlqx",
         this.portfolio = "wasydev.xyz",
