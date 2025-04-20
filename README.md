@@ -18,7 +18,7 @@ module.exports = Wasy
  <a href="https://www.buymeacoffee.com/wasy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120px" height="30px" alt="Buy Me A Coffee"></a>
 <br> </br>
 <br> </br>
-<h2 align="center"> <img width="100%" src="https://count.getloli.com/get/@wasycim?theme=gelbooru" </h2>
+<h2 align="center"> <img width="100%" src="https://count.getloli.com/get/@wasycim?theme=gelbooru-h" </h2>
 
 <br> </br>
 <a href="https://github.com/Jurredr/github-widgetbox">
