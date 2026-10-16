@@ -5,7 +5,8 @@ class Wasy {
         this.name = "man",
         this.discord.tag = "wasycim",
         this.instagram = "yigitlqx",
-        this.portfolio = "wasycim.me",
+        this.portfolio = "wasy.io",
+        this.discord.systems = "wasy.systems",
     };
 }
 
